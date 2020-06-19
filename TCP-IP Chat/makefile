@@ -4,6 +4,7 @@
 CC     = gcc
 CFLAGS = -Wall -Werror -pedantic-errors
 all:
-		$(CC) $(CFLAGS) -o chatclient chatclient.c 
+		$(CC) $(CFLAGS) -o chatclient chatclient.c
+		$(CC) $(CFLAGS) -o chatserver chatserver.c 
 clean:
-		rm chatclient 
+		rm chatclient chatserver
