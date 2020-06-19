@@ -1,0 +1,2 @@
+In this project, a C program is used to sort files of strings, ints, or doubles. Any file given will contain only one of the 
+three possible types. The files will be sorted using quicksort with lomuto partitioning.
