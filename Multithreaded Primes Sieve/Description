@@ -1,0 +1,2 @@
+This program implements the segmented sieve of Eratosthenes to find prime numbers having two or more digits that are ‘3’.
+A multithread approach is used to greatly reduce the time needed for the program to run. 
